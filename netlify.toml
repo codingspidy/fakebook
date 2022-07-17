@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "build-output"
+
+ [[redirects]]
+  from = "https://lighthearted-llama-9ca1a6.netlify.app"
+  to = "https://lighthearted-llama-9ca1a6.netlify.app" 
